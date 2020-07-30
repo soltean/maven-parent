@@ -7,10 +7,10 @@
   <parent>
     <groupId>com.sergiuoltean</groupId>
     <artifactId>maven-parent</artifactId>
-    <version>1.0.0</version>
+    <version>${revision}</version>
   </parent>
 
   <artifactId>services</artifactId>
-  <version>${project.parent.version}</version>
+  <version>${revision}</version>
 
 </project>
